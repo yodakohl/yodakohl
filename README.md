@@ -1,4 +1,4 @@
-# Hi, I'm Guenther
+# Hi, I'm Günther
 
 Austria | building small tools, public-good datasets, and AI-assisted workflows.
 
